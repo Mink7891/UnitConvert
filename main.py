@@ -1,5 +1,3 @@
-# pip install dearpygui
-
 import dearpygui.dearpygui as dpg
 
 dpg.create_context()
